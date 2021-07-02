@@ -1,2 +1,0 @@
-# fistweb
-python django web
